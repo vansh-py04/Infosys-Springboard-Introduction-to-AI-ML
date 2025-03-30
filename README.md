@@ -19,4 +19,5 @@ Jupyter Notebook
 ---
 This repository serves as a portfolio of applied data analysis skills gained during the course.
 
-https://github.com/vansh-py04/Infosys-Springboard-Introduction-to-AI-ML/blob/main/Certificate.pdf
+![image](https://github.com/user-attachments/assets/5ca3093c-3cbf-464c-857f-9f509827b9aa)
+
