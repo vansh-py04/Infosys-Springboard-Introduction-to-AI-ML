@@ -18,3 +18,5 @@ Matplotlib / Seaborn
 Jupyter Notebook
 ---
 This repository serves as a portfolio of applied data analysis skills gained during the course.
+
+https://github.com/vansh-py04/Infosys-Springboard-Introduction-to-AI-ML/blob/main/Certificate.pdf
